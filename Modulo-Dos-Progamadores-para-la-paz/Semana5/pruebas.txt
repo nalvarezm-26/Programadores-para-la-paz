@@ -1,0 +1,9 @@
+
+1. Al acceder a http://localhost:3000
+Ocurre: El navegador muestra el texto "Servidor activo". Esto pasa porque se dispara la ruta raíz '/' por método GET y el servidor responde exitosamente.
+
+2. Al acceder a http://localhost:3000/saludo
+Ocurre: El navegador muestra el texto "Hola comunidad". El servidor procesa la ruta exacta '/saludo' y devuelve el texto configurado.
+
+3. Al acceder a http://localhost:3000/mensaje/juan
+Ocurre: El navegador muestra "Hola juan". El servidor toma la palabra 'juan' de la URL como un parámetro dinámico (req.params.nombre) y lo añade a la respuesta.

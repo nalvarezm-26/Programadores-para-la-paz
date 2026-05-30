@@ -1,0 +1,9 @@
+Análisis de la ruta POST /reporte:
+¿Qué hace esta ruta?
+Esta ruta está configurada para reaccionar únicamente a peticiones que usen el método HTTP POST en la dirección '/reporte'. A diferencia de las rutas GET, esta no se puede probar directamente desde la barra del navegador porque requiere que se le envíen datos estructurados en formato JSON dentro del cuerpo de la petición. El código toma el campo 'mensaje', lo procesa y devuelve un objeto JSON de confirmación.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Es ideal para enviar información desde los usuarios hacia la base de datos de la comunidad sin exponer los datos en la URL. Ejemplos prácticos:
+1. Reportar una avería en los servicios públicos (como una fuga de agua o falta de luz).
+2. Enviar quejas o sugerencias a la junta vecinal de manera privada.
+3. Registrar los datos de un nuevo vecino en el sistema del barrio.
