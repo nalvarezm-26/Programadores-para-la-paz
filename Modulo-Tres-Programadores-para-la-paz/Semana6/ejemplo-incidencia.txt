@@ -1,0 +1,4 @@
+{
+  "tipo": "Recolección de residuos",
+  "descripcion": "Acumulación de desechos no recolectados en la esquina de la calle 10 con carrera 5, generando malos olores y obstrucción del paso peatonal."
+}

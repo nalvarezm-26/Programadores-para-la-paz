@@ -1,0 +1,5 @@
+{
+  "estado": "Datos recibidos",
+  "nombre": "Nataly",
+  "mensaje": "Hola, esta es mi prueba de API"
+}
