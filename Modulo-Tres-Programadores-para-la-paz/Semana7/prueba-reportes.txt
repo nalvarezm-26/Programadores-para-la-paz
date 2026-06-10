@@ -1,0 +1,1 @@
+Al consultar la ruta GET http://localhost:3000/reportes inicialmente devuelve un arreglo vacío [ ] porque aún no se han registrado datos. Al realizar peticiones POST con la información, el arreglo se llena con objetos JSON que contienen un ID autoincremental, el tipo y la descripción del reporte ingresado, manteniéndose en memoria mientras el servidor esté encendido.
