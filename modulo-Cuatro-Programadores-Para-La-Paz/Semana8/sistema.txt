@@ -1,0 +1,8 @@
+Comando uname -a:
+presenta la información detallada del sistema operativo, incluyendo el nombre del kernel, la versión, la arquitectura (como x86_64) y la fecha de compilación.
+
+Comando whoami:
+Muestra el nombre del usuario con el que se ha iniciado sesión actualmente en la terminal.
+
+¿Por qué es útil conocer información del sistema al administrar un servidor?
+tener entendimiento de de esta información es fundamental para saber qué entorno y permisos tenemos antes de la instalación o configuración de las aplicaciones. Conocer la versión del kernel ayuda a verificar la compatibilidad de software y detectar posibles vulnerabilidades, mientras que al saber qué usuario tenemos asegura privilegios(como permisos de superusuario o root) para realizar tareas administrativas.
