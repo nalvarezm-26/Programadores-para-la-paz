@@ -1,0 +1,11 @@
+- ¿Qué 2 tareas harías primero? 
+  Las historias 1 y 2 (recibir alertas y registrar incidencias).
+
+- ¿Por qué son las más importantes? 
+  Porque son el núcleo del sistema: sin el registro del ciudadano y la notificación al coordinador, no hay veeduría posible.
+
+- ¿Qué significa para ti que una tarea esté terminada? 
+  Una tarea está terminada cuando:
+  1. Funciona según el objetivo propuesto.
+  2. Fue probada en un entorno de práctica sin errores.
+  3. Quedó registrada y guardada en el control de versiones de Git.

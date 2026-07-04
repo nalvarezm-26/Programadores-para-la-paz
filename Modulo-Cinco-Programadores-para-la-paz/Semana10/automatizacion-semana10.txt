@@ -1,0 +1,8 @@
+- ¿Qué evento activa el flujo? 
+  El registro de un nuevo reporte en la base de datos.
+
+- ¿Qué mensaje se enviaría a Telegram? 
+  "Alerta: Nuevo reporte ingresado al sistema. Por favor, verificar en el panel de control."
+
+- ¿Qué información no debería enviarse por seguridad? 
+  Nombres completos, documentos de identidad, direcciones exactas, números de teléfono o cualquier dato sensible que pueda comprometer la privacidad del ciudadano.
