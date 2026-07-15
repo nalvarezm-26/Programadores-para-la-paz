@@ -1,0 +1,13 @@
+Entidad: Causa
+- id: Identificador único de la causa.
+- titulo: Nombre corto de la petición.
+- descripcion: Detalle de la problemática.
+- fecha: Momento en que se crea la causa.
+*Sirve para identificar y centralizar la petición social.
+
+Entidad: Apoyo
+- id: Identificador único del registro de apoyo.
+- causa_id: Relaciona el apoyo con la causa específica.
+- nombre: Nombre de quien apoya.
+- fecha: Momento en que se registró el apoyo.
+*Sirve para llevar el conteo y validación del respaldo comunitario.

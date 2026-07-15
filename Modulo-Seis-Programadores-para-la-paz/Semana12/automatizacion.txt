@@ -1,0 +1,3 @@
+Evento: Nueva causa registrada.
+Mensaje: "Se ha registrado una nueva causa en la plataforma. ¡Ingresa a la plataforma para conocer los detalles y brindar tu apoyo!"
+Información que no debe enviarse por seguridad: Cédulas, números de teléfono, direcciones exactas, comentarios sensibles o cualquier otro dato personal de carácter privado.

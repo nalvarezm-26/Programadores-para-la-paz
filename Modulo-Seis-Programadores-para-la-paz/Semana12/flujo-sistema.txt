@@ -1,0 +1,5 @@
+1. Un ciudadano ingresa a la plataforma y redacta una causa social.
+2. La plataforma almacena la información de la causa en la base de datos.
+3. Otros ciudadanos interesados acceden a la plataforma y registran su apoyo a la causa.
+4. El sistema contabiliza automáticamente el número total de apoyos recibidos.
+5. El sistema genera un documento PDF formal que contiene la petición y el respaldo de la comunidad.
